@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Cat Got Fat]]></title>
+        <description><![CDATA[The Cat Got Fat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 16:43:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I pretty much gave up drinking for a New Years Resolution. </p>]]></description>
+            <link>undefinedb7fb61f9-8d48-4483-94c5-4ba1f8a86ef6/index.html</link>
+            <guid isPermaLink="false">b7fb61f9-8d48-4483-94c5-4ba1f8a86ef6</guid>
+            <pubDate>Tue, 01 Mar 2016 16:43:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
