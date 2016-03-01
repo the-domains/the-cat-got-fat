@@ -10,30 +10,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8829787
   brandStrength: 0.5082114620599896
-  lightness: 0.7829787
+  rhythmicContrast: 0.7478707
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  rhythmicContrast: 0.7478707
+  lightness: 0.7829787
 typography_spectrum: 0.299925203435123
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.8083673701621592
+layout_spectrum: 0.1319149
 analytics:
   twitter: null
   google: null
